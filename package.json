@@ -1,0 +1,19 @@
+{
+  "name": "test-gulp-sass-boilerplate",
+  "version": "1.0.0",
+  "description": "____ GULP SASS BOILERPLATE _____",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gulp": "^4.0.0",
+    "gulp-connect": "^5.6.1",
+    "gulp-sass": "^4.0.2"
+  },
+  "devDependencies": {
+    "gulp-autoprefixer": "^6.0.0"
+  }
+}
